@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul Kamau</h1>
-<h3 align="center">Lets code your vision into reality!! 🚀</h3>
+<h3 align="center">A passionate believer in Christ and a full stack developer!😎</h3>
 
 - 🔭 I’m currently working on **an ecommerce web app**
 
